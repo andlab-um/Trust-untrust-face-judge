@@ -7,4 +7,4 @@ This repository contains code, behavioral data, and Eprime materials for running
 - /code: code for running analyses and generating figures
 - /faces_experimen1: faceset 1
 - /faces_experimen2-4: faceset 2
-- /paradigm: Eprime code for tasks
+- /Paradigm: Eprime code for tasks
