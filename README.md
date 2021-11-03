@@ -1,6 +1,6 @@
 # Trust_untrust_face_judge
 
-This repository contains code, behavioral data, and Eprime materials for running the experiments and analyses described in the paper "Variations in EEG  predicts individual difference in social tasks" available at: https://biorvix.xxxx .
+This repository contains code, behavioral data, and Eprime materials for running the experiments and analyses described in the paper "Variations in EEG  predicts individual difference in social tasks" available at: https://www.biorxiv.org/content/10.1101/2021.10.29.465647v2 .
 
 
 ## File structure
