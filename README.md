@@ -1,6 +1,6 @@
 # Trust_untrust_face_judge
 
-This repository contains code, behavioral data, and Eprime materials for running the experiments and analyses described in the paper "Variations in EEG  predicts individual difference in social tasks" available at: https://www.biorxiv.org/content/10.1101/2021.10.29.465647v2 .
+This repository contains code, behavioral data, and Eprime materials for running the experiments and analyses described in the paper "Social conformity is associated with Inter-trial EEG variability" available at: https://www.researchgate.net/publication/355839170_Social_conformity_is_associated_with_Inter-trial_EEG_variability .
 
 
 ## File structure
