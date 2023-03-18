@@ -1,6 +1,6 @@
 # Trust_untrust_face_judge
 
-<img src="https://raw.githubusercontent.com/andlab-um/Trust-untrust-face-judge/main_structure.jpg" align="right" width="490px">
+<img src="https://github.com/andlab-um/Trust-untrust-face-judge/blob/main/main_structure.jpg" align="right" width="490px">
 
 This repository contains code, behavioral data, and Eprime materials for running the experiments and analyses described in the paper "Social conformity is associated with Inter-trial EEG variability" available at: https://www.researchgate.net/publication/355839170_Social_conformity_is_associated_with_Inter-trial_EEG_variability .
 
