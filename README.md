@@ -1,5 +1,7 @@
 # Trust_untrust_face_judge
 
+# Main structure <img src="https://raw.githubusercontent.com/andlab-um/Emotion_Neurophysio_IS-RSA/main/demo.png" align="right" width="490px">
+
 This repository contains code, behavioral data, and Eprime materials for running the experiments and analyses described in the paper "Social conformity is associated with Inter-trial EEG variability" available at: https://www.researchgate.net/publication/355839170_Social_conformity_is_associated_with_Inter-trial_EEG_variability .
 
 ## Abstract
