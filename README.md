@@ -2,6 +2,11 @@
 
 <img src="https://github.com/andlab-um/Trust-untrust-face-judge/blob/main/main_structure.jpg" align="right" width="400px">
 
+[![DOI](https://img.shields.io/badge/biorxiv-preprint-brightgreen)](https://doi.org/10.1101/2021.10.29.465647)<br />
+[![Twitter URL](https://img.shields.io/twitter/url?label=%40ANDlab3&style=social&url=https%3A%2F%2Ftwitter.com%ANDlab3)](https://twitter.com/ANDlab3)
+
+> From [Affective, Neuroscience, and Decision-making Lab](https://andlab-um.com)
+
 This repository contains code, behavioral data, and Eprime materials for running the experiments and analyses described in the paper "Social conformity is associated with Inter-trial EEG variability" available at: https://www.researchgate.net/publication/355839170_Social_conformity_is_associated_with_Inter-trial_EEG_variability .
 
 ## Abstract
